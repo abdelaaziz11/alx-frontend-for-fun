@@ -1,0 +1,46 @@
+body {
+  color: white;
+}
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+}
+.box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.box1 {
+  background-color: rgb(48, 159, 48);
+  width: 5rem;
+  height: 3rem;
+  font-size: 1rem;
+}
+.box2 {
+  background-color: rgb(57, 148, 205);
+  width: 8rem;
+    height: 5rem;
+    font-size: 2rem;
+
+}
+.box3 {
+  background-color: rgb(35, 70, 108);
+  width: 11rem;
+  height: 7rem;
+  font-size: 4rem;
+  background-color: #344A61;
+}
+.box4 {
+  background-color: rgb(178, 85, 210);
+  width: 8rem;
+  height: 5rem;
+  font-size: 2rem;}
+.box5 {
+  background-color: rgb(255, 119, 0);
+  width: 5rem;
+  height: 3rem;
+  font-size: 1rem;
+}
